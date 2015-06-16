@@ -1,0 +1,18 @@
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\6. Дерево отрезков\Segment_Tree\Segment_Tree\bin\Debug\Segment_Tree.exe.config
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\6. Дерево отрезков\Segment_Tree\Segment_Tree\bin\Debug\Segment_Tree.exe
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\6. Дерево отрезков\Segment_Tree\Segment_Tree\bin\Debug\Segment_Tree.pdb
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\6. Дерево отрезков\Segment_Tree\Segment_Tree\obj\Debug\Segment_Tree.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\6. Дерево отрезков\Segment_Tree\Segment_Tree\obj\Debug\Segment_Tree.exe
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\6. Дерево отрезков\Segment_Tree\Segment_Tree\obj\Debug\Segment_Tree.pdb
+C:\Users\Илья\Pictures\Segment_Tree\Segment_Tree\bin\Debug\Segment_Tree.exe.config
+C:\Users\Илья\Pictures\Segment_Tree\Segment_Tree\obj\Debug\Segment_Tree.exe
+C:\Users\Илья\Pictures\Segment_Tree\Segment_Tree\obj\Debug\Segment_Tree.pdb
+C:\Users\Илья\Pictures\Segment_Tree\Segment_Tree\bin\Debug\Segment_Tree.exe
+C:\Users\Илья\Pictures\Segment_Tree\Segment_Tree\bin\Debug\Segment_Tree.pdb
+C:\Users\Илья\Pictures\Segment_Tree\Segment_Tree\obj\Debug\Segment_Tree.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\6. Дерево отрезков\Segment_Tree_Correct\Segment_Tree\bin\Debug\Segment_Tree.exe.config
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\6. Дерево отрезков\Segment_Tree_Correct\Segment_Tree\obj\Debug\Segment_Tree.exe
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\6. Дерево отрезков\Segment_Tree_Correct\Segment_Tree\obj\Debug\Segment_Tree.pdb
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\6. Дерево отрезков\Segment_Tree_Correct\Segment_Tree\bin\Debug\Segment_Tree.exe
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\6. Дерево отрезков\Segment_Tree_Correct\Segment_Tree\bin\Debug\Segment_Tree.pdb
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\6. Дерево отрезков\Segment_Tree_Correct\Segment_Tree\obj\Debug\Segment_Tree.csprojResolveAssemblyReference.cache

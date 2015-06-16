@@ -1,0 +1,6 @@
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\4. Классы эквивалентности\Merge\Merge\bin\Debug\Merge.exe.config
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\4. Классы эквивалентности\Merge\Merge\bin\Debug\Merge.exe
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\4. Классы эквивалентности\Merge\Merge\bin\Debug\Merge.pdb
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\4. Классы эквивалентности\Merge\Merge\obj\Debug\Merge.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\4. Классы эквивалентности\Merge\Merge\obj\Debug\Merge.exe
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\4. Классы эквивалентности\Merge\Merge\obj\Debug\Merge.pdb
