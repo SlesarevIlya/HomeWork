@@ -1,0 +1,7 @@
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\3. Деревья\Validator_B_Tree\Validator_B_Tree\bin\Debug\Validator_B_Tree.exe
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\3. Деревья\Validator_B_Tree\Validator_B_Tree\bin\Debug\Validator_B_Tree.pdb
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\3. Деревья\Validator_B_Tree\Validator_B_Tree\obj\x86\Debug\Validator_B_Tree.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\3. Деревья\Validator_B_Tree\Validator_B_Tree\obj\x86\Debug\Validator_B_Tree.exe
+C:\Users\Илья\Documents\Visual Studio 2010\Projects\1 курс\2 семестр\3. Деревья\Validator_B_Tree\Validator_B_Tree\obj\x86\Debug\Validator_B_Tree.pdb
+C:\Users\Илья\Documents\GitHub\HomeWork\Validator_B_Tree\Validator_B_Tree\obj\x86\Debug\Validator_B_Tree.exe
+C:\Users\Илья\Documents\GitHub\HomeWork\Validator_B_Tree\Validator_B_Tree\obj\x86\Debug\Validator_B_Tree.pdb
