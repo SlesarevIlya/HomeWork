@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 khe
 khe
 khe
+=======
+>>>>>>> parent of d23e605... com
 =======
 >>>>>>> parent of d23e605... com
